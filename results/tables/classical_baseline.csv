@@ -1,0 +1,5 @@
+graph,name,nodes,edges,total_weight,optimal_cut,n_optimal_bitstrings,runs_on
+G1,dense_5node,5,8,19.0,15.0,2,A and B
+G2,ring_chord_5node,5,6,24.0,22.0,2,A and B
+G3,A_native_tree_5node,5,4,14.0,14.0,2,A and B
+G4,custom_6node,6,9,28.0,28.0,2,B only
